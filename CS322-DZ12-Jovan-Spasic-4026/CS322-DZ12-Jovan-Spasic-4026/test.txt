@@ -1,0 +1,3 @@
+﻿this is a test text file
+here are some lines of text
+these can be copied to another text file
